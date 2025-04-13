@@ -8,7 +8,7 @@ private:
     string author;
     string isbn;
     bool available;
-
+ 
 public:
     void setBookDetails(string t, string a, string i, bool avail) {
         title = t;
