@@ -57,7 +57,7 @@ int main() {
     library[4].setBookDetails("Capital in the Twenty-First Century", "Thomas Piketty", "853591126X", true);
 
     string inputISBN;
-    cout << "=== Alex's Library ===" << endl;
+    cout << "=== Marcella's Library ===" << endl;
 
     while (true) {
         cout << "\nAvailable books:\n";
